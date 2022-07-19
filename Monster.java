@@ -52,6 +52,4 @@ public class Monster {
         return "Monter [damage=" + damage + ", life=" + life + ", name=" + name +"]";
     }
 
-
-
 }
